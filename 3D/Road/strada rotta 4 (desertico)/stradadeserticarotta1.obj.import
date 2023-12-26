@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cfhaxpw0qwim4"
+path="res://.godot/imported/stradadeserticarotta1.obj-f5a898c7e2aa531b95e3989c0ebefe27.mesh"
+
+[deps]
+
+files=["res://.godot/imported/stradadeserticarotta1.obj-f5a898c7e2aa531b95e3989c0ebefe27.mesh"]
+
+source_file="res://3D/Road/strada rotta 4 (desertico)/stradadeserticarotta1.obj"
+dest_files=["res://.godot/imported/stradadeserticarotta1.obj-f5a898c7e2aa531b95e3989c0ebefe27.mesh", "res://.godot/imported/stradadeserticarotta1.obj-f5a898c7e2aa531b95e3989c0ebefe27.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0.5, 0, 2.5)
+optimize_mesh=true

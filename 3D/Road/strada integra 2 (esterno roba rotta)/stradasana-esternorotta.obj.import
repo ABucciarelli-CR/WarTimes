@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bkf4qblc6wsf5"
+path="res://.godot/imported/stradasana-esternorotta.obj-88b55728f0edd57b6938434af80f11a1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/stradasana-esternorotta.obj-88b55728f0edd57b6938434af80f11a1.mesh"]
+
+source_file="res://3D/Road/strada integra 2 (esterno roba rotta)/stradasana-esternorotta.obj"
+dest_files=["res://.godot/imported/stradasana-esternorotta.obj-88b55728f0edd57b6938434af80f11a1.mesh", "res://.godot/imported/stradasana-esternorotta.obj-88b55728f0edd57b6938434af80f11a1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0.5, 0, 2.5)
+optimize_mesh=true

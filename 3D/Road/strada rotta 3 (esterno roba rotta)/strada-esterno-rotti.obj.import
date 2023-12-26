@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dp5j2ovk4w0q3"
+path="res://.godot/imported/strada-esterno-rotti.obj-0d0b685bd4402ad9e8726e3daa49f411.mesh"
+
+[deps]
+
+files=["res://.godot/imported/strada-esterno-rotti.obj-0d0b685bd4402ad9e8726e3daa49f411.mesh"]
+
+source_file="res://3D/Road/strada rotta 3 (esterno roba rotta)/strada-esterno-rotti.obj"
+dest_files=["res://.godot/imported/strada-esterno-rotti.obj-0d0b685bd4402ad9e8726e3daa49f411.mesh", "res://.godot/imported/strada-esterno-rotti.obj-0d0b685bd4402ad9e8726e3daa49f411.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0.5, 0, 2.5)
+optimize_mesh=true

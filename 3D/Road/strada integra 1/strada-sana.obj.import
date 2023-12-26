@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cno0fkenobpoq"
+path="res://.godot/imported/strada-sana.obj-f0fe287a0c5e8076a9170028d8127380.mesh"
+
+[deps]
+
+files=["res://.godot/imported/strada-sana.obj-f0fe287a0c5e8076a9170028d8127380.mesh"]
+
+source_file="res://3D/Road/strada integra 1/strada-sana.obj"
+dest_files=["res://.godot/imported/strada-sana.obj-f0fe287a0c5e8076a9170028d8127380.mesh", "res://.godot/imported/strada-sana.obj-f0fe287a0c5e8076a9170028d8127380.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0.5, 0, 2.5)
+optimize_mesh=true
